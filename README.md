@@ -179,20 +179,22 @@ To understand the data, I did the following:
     
     9.1.1 Model performance - Actual Data Vs Predicted Data
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Graph%20Comparision.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/PredictedDataComparision.png)
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/ResultsComparisonDF.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/PredictedDataComparisionChart.png)
 
 **Based on models evaluation, Pillow package prediction is perfect with few or no false positives. It classified images correctly. See the confusion matrix above**
 
-## 10. Next Steps 
+## 10. Next Steps and Future Enhancements...
     
-### 1) Perform model fit on even larger dataset
+## **Now that we created many models and identified two best models (Pillow, CNN) to classify images and label them correctly to ~99% accuracy, the Next Steps would be as follows...**
 
-### 2) Enhance the modelling using CNN, Transfer Learning etc.
+## 1) Enhance the models to classify and predict labels at a detailed level like 'sub-category' or 'product name'.
 
-### 3) Enhance modelling if we can extract additional features from the images while processing the classification
+## 2) Create an endpoint to leverage it for use in real world application
 
-### 4) Feed a brand new dataset outside of that used for train/test to test the accuracy of model
+## 3 Additionally, Enhance the models to extract additional features like color, style, shape, text  during image classification
+
+
     
 
