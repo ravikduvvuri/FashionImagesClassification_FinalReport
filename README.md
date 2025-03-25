@@ -111,25 +111,37 @@ To understand the data, I did the following:
 
     6.1.1 Built SVM model, trained, tested and got F1-Score, Confusion Matrix
 
+    6.1.2 SVC Confusion Matrix
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/SVC%20Results.png)
+
 **6.2. Model 2: KNN Model**
     
     6.2.1 Built KNN model, trained, tested and got F1-Score, Confusion Matrix
 
+    6.2.1 KNN Confusion Matrix
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/KNNN%20Results.png)
+
 **6.3. Model 3 : RandomForest Model**
     
-    6.4.1 Built RandomForest model, trained, tested and got F1-Score, Confusion Matrix
+    6.3.1 Built RandomForest model, trained, tested and got F1-Score, Confusion Matrix
+
+    6.3.2 RandomForest Confusion Matrix
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/RFT%20Results.png)
 
 **6.6. Model Comparisions**
     
     6.6.1 Evaluate SVM, KNN, RandomForest results
-    
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/SVM%20Results.png)
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/KNN%20Results.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/SVC%20Confustion%20Matrix.png)
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/RF%20Results.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/KNN%20Confustion%20Matrix.png)
 
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/RandomForest%20Confustion%20Matrix.png)
 
+   
 ## 7.Model Finetuning
     
     7.1.1 Did Hyperparameter tuning
