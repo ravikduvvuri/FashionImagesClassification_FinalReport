@@ -84,9 +84,9 @@ To understand the data, I did the following:
     
     4.3.2 Colour distribution of a sample image
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/SampleImages.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/DisplaySampleImages.png)
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Color%20Distribution-SampleImage1.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/SampleImageColorDistribution.png)
 
 ## 5. Engineering Features / Preprocessing of data: Images and Labels
 
@@ -102,7 +102,7 @@ To understand the data, I did the following:
 
     5.1.4 Display resized sample images
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/ResizedSampleImages.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/NormalizedSampleImages.png)
 
 
 ## 6. Modeling 
