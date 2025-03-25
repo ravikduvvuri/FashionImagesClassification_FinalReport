@@ -53,17 +53,29 @@ To understand the data, I did the following:
 ### 4.2 EDA on Styles data
   These plots provide the information about how data looks like from distribution perspective
   
-    4.2.1 Colour distribution by Gender
+    4.2.1 Master Category Data distribution 
     
-    4.2.2 Colour distribution by Master Category
+    4.2.2 Sub Category Data distribution
 
-    4.2.3 Colour distribution by usage
+    4.2.3 Products Data distribution
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Color%20Distribution-Gender.png)
+    4.2.4 Color Distribution by Gender
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Color%20Distribution-MasterCategory.png)
+    4.2.5 Color Distribution by Master Category
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Color%20Distribution-Usage.png)
+    4.2.5 Color Distribution by Usage - Heatmap
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/MasterCategoryDataDistribution.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/SubCategoryDataDistribution.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/ProductTypeDataDistribution.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/ColorDistributionByGender.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/ColorDistributionByMasterCategory.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/HeatMapColorDistributionByUsage.png)
 
 ### 4.3 EDA on Images data
   These plots provide the information about how data looks like from distribution perspective
