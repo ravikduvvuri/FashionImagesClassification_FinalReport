@@ -161,10 +161,19 @@ To understand the data, I did the following:
     
     8.1.2 Pillow - Model performance evaluation using Pillow and RandomForest
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Results-OpenCV%20Model.png)
+    8.1.3 CNN - Model Performance evaluation
 
-![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/Results-PillowModel.png)
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/OpenCV%20Results.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/OpenCV%20Confusion%20Matrix.png)
     
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/Pillow%20Results.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/Pillow%20Confusion%20Matrix.png)
+
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/CNN%20Results.png)
+    
+![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/CNN%20Confustion%20Matrix.png)
 
 ## 9. Comparision - Actual Label Vs Predicted Label and Plot 
     
