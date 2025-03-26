@@ -20,7 +20,7 @@ https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/mai
 
 
 ## 1. Problem Statement Overview 
-For a fashion retailer or manufacturer, identifying and entering product attributes into a system is a tedious job; if we have a model that can classify images and get attributes, it is a great help for them and it can also enhance master product data store with less effort. 
+For a Fashion Retailer or Manufacturer, identifying and entering product attributes into a system is a tedious job; if we have a model that can classify images and get attributes, it is a great help for them and it can also enhance master product data store with less effort. 
 
 ## 2. Model Outcome and Predictions
 In this project, my goal is to explore various supervised models (classification models) and create a better model that can classify images and update label attributes into a dataframe. 
