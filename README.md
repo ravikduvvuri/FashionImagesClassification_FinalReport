@@ -1,6 +1,6 @@
 #         Capstone Project
 
-# FashionImagesClassification Final Report
+# Fashion Images Classification Final Report
 ## Identify and Classify Fashion Images and Label them correctly
 
 ### Jupyter Notebook with results output (code + output)
