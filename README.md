@@ -12,10 +12,10 @@ https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/mai
 
 ## DataSet
 
-  ## Label data:
+  ### Label data:
   https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/styles.csv
 
-  ## Images data:
+  ### Images data:
   https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/data
 
 
