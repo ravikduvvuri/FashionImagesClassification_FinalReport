@@ -1,12 +1,12 @@
 #         Capstone Project
 
 # FashionImagesClassification Final Report
-## Identify and Classify Fashion Images and Label them correctly
+### Identify and Classify Fashion Images and Label them correctly
 
-## Jupyter Notebook with results output (code + output)
+### Jupyter Notebook with results output (code + output)
 https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD.ipynb
 
-## Jupyter Notebook without results output (Just code only)
+### Jupyter Notebook without results output (Just code only)
 https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD_withoutOUTPUT.ipynb
 
 
