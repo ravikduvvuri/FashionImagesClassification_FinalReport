@@ -1,8 +1,12 @@
 # FashionImagesClassification_FinalReport
 ## Identify and Classify Fashion Images and Label them correctly
 
-## Jupyter Notebook
+## Jupyter Notebook with results output (code + output)
 https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD.ipynb
+
+## Jupyter Notebook without results output (Just code only)
+https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD.ipynb
+
 
 ## DataSet
 
