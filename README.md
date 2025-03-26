@@ -158,6 +158,7 @@ To understand the data, I did the following:
 
 Note: This output is based on a small dataset only, the dataset used in the rest of notebook was not finished in a reasonable time 
 to capture the finetuned parameters
+
 ![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/FineTunedResults.png)
 
 
