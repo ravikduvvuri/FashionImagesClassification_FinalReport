@@ -5,7 +5,7 @@
 https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD.ipynb
 
 ## Jupyter Notebook without results output (Just code only)
-https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD.ipynb
+https://github.com/ravikduvvuri/FashionImagesClassification_FinalReport/blob/main/FashionProductsClassification_Final_RD_withoutOUTPUT.ipynb
 
 
 ## DataSet
