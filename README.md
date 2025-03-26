@@ -155,7 +155,8 @@ To understand the data, I did the following:
     7.1.3 Built Confusion Matrix, Accuracy, Recall, Precision, F1Score
 
     7.1.4 Shown Best Model and Parameters
-   
+
+Note: This output is based on a small dataset only, the dataset used in the rest of notebook was not finished in a reasonable time to capture the finetuned parameters
 ![Alt text](https://github.com/ravikduvvuri/FashionImagesClassification/blob/main/FineTunedResults.png)
 
 
